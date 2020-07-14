@@ -11,6 +11,6 @@ I am an engineer, a responsible cyberpunk, and 'devsecops' mentor with five year
 - 👽 I like [code poetry](http://code-poetry.com/home).
 - 🗝 I am on [keybase](https://keybase.io/caretak3r).
 - 📔 See what weird stuff I am learning about in my [zettelkasten](https://github.com/caretak3r/zettlekasten).
+- 
 ---
 <sub><sup>_disclaimer: a tracking pixel temporarily tracks the number of visits to this page_</sup></sub>
-<sub><sup>[](http://canarytokens.com/traffic/hna2i1nn8g1dizbjgnv9lzd95/index.html)</sup></sub>
