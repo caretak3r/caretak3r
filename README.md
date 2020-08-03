@@ -13,13 +13,9 @@ I am an engineer, a responsible cyberpunk, and 'devsecops' mentor with five year
 - 📔 See what weird stuff I am learning about in my [zettelkasten](https://github.com/caretak3r/zettlekasten).
 
 ---
-### Stats
-
-![stats](https://github-readme-stats.vercel.app/api?username=caretak3r&count_private=true&show_icons=true&theme=cobalt&show_owner=true)
-
-
 ### Languages
 
 ![code](https://github-readme-stats.vercel.app/api/top-langs/?username=caretak3r&count_private=true&show_icons=true&theme=onedark&layout=compact)
 
 ---
+<sub>my profile is still in progress...</sub>
