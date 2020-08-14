@@ -1,5 +1,5 @@
 ### Hello friend. :ghost:
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https%3A%2F%2Fgithub.com%2Fcaretak3r%2F)
+![counter](https://enu690edqwwj2zp.m.pipedream.net)
 
 I am an engineer, a responsible cyberpunk, and 'devsecops' mentor with five years of expertise in infrastructure, network security, and distributed technologies. 
 
